@@ -1,0 +1,27 @@
+{
+  "name": "guid4",
+  "version": "1.0.0",
+  "description": "Generate GUIDs",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha test/test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/satnami/guid4.git"
+  },
+  "keywords": [
+    "guid",
+	"uuid"
+  ],
+  "author": "satnami",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/satnami/guid4/issues"
+  },
+  "homepage": "https://github.com/satnami/guid4#readme",
+  "devDependencies": {
+    "chai": "^3.4.1",
+    "mocha": "^2.3.4"
+  }
+}
