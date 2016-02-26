@@ -16,3 +16,6 @@ A small library to generate random guids just for fun.
 ## Test
 
 	npm test
+	
+
+[![NPM](https://nodei.co/npm/guid4.png?downloads=true&downloadRank=true&stars=true)](https://nodei.co/npm/guid4/)
