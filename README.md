@@ -1,4 +1,4 @@
-# Satnami 
+# GUID4 
 
 [![build status][travis-image]][travis-url]
 [![NPM version][npm-image]][npm-url]
