@@ -21,7 +21,7 @@
   },
   "homepage": "https://github.com/satnami/guid4#readme",
   "devDependencies": {
-    "chai": "^3.4.1",
+    "chai": "^4.0.1",
     "mocha": "^2.3.4"
   }
 }
